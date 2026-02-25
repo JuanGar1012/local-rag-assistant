@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+frontend/.env
+frontend/node_modules/
+Checkpoints/
+AI_Engineering_Summary.md
+data/chroma/
+data/app.db
+data/reports/eval_latest.json
+data/reports/metrics-summary.json
+data/beir_raw/
+data/beir_extracted/
