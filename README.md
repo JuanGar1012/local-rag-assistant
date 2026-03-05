@@ -1,5 +1,7 @@
 # Local RAG Assistant
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Local-first and zero-cost by design.
 
 This is a portfolio-grade AI application that runs entirely on your machine with FastAPI + Ollama + Chroma + SQLite + React/Vite. It demonstrates end-to-end RAG engineering, evaluation rigor, observability, and product UX without paid APIs or cloud services.
