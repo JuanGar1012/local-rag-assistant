@@ -243,8 +243,6 @@ This project demonstrates:
 - AI product engineering (usable UX, model selection, feedback loop).
 - Reproducible local-first development with production-minded roadmap.
 
-For recruiters and hiring managers, this is positioned as a complete AI system implementation, not a toy prompt demo.
-
 ## 12. License
 This project is licensed under the MIT License.
 
